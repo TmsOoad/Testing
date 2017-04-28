@@ -27,6 +27,8 @@ public class Login {
 		{
 			 
 			System.out.println("Login Sucessful");
+			Students std = new Students();
+			std.prov_feed();
 			
 			//a=true;
 			//break;
@@ -38,6 +40,15 @@ public class Login {
 			System.out.println("Login Sucessful");
 			//a=true;
 			//break;
+		}
+		else if(u_name.equals("Planner")&& id==59655 && pass.equals("iqrazia"))
+		{
+			 
+			System.out.println("Login Sucessful");
+			Planner p = new Planner();
+			p.Planning();
+			
+			
 		}
 		else
 		{
