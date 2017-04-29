@@ -1,0 +1,5 @@
+[Name: iqra Age: 20 Contact: 274695030 Address: hagdhdjfir Id: 59655 course: webdesigning]
+[Name: hadia Age: 20 Contact: 123445670 Address: ghjjfdddfgh Id: 59622 course: web]
+[Id: 59654Name: Varisha Age: 20 Contact: 12300495960 Address: ahjdk82736kd course: graphic]
+[Id: 59658Name: rida Age: 20 Contact: 12345996 Address: hajdjffkgk course: graphic]
+[Id: 59644Name: jaziba Age: 20 Contact: 12344567 Address: northnazimabad block course: webdedsignig]
